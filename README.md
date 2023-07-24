@@ -8,7 +8,7 @@
 
 3. Trong trang phpMyAdmin, tạo một cơ sở dữ liệu mới và gán cho nó tên "product_category".
 
-4. Có thể sửa lại port của MySql dựa theo cấu hình trên máy tính. Port đang dùng cho MySql hiện tại là 3306
+4. Có thể sửa lại port của MySql trong file config/database.php dựa theo cấu hình trên máy tính. Port đang dùng cho MySql hiện tại là 3306
 
 4. Trong cơ sở dữ liệu mới vừa tạo, chọn tab "Import" và nhập đường dẫn đến tệp SQL đã được đính kèm trong thư mục. Nhấn nút "Go" để import cơ sở dữ liệu.
 
